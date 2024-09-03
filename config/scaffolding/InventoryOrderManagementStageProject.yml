@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: InventoryOrderManagementStageProject
+  gitServerName: bhminventoryordermanagement
+  gitUrl: https://github.com/bharathreddy89
+  gitUsername: bharathreddy89
+  gitBranch: main
